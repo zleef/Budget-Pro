@@ -4,8 +4,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-//testing git
-
 public class Storage {
 	
 	/**Variable holding value of database we're using.*/
